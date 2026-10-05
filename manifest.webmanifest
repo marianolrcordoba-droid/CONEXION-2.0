@@ -1,0 +1,16 @@
+{
+  "name": "CONEXIÓN 2.0",
+  "short_name": "CONEXIÓN 2.0",
+  "description": "Una nueva forma de estar cerca.",
+  "lang": "es-ES",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef5f7",
+  "theme_color": "#0b6070",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
